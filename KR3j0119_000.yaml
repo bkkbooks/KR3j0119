@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0119/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0119_WYG_000-1a, image: WYG0864/WYG0864-0585a.png}
+body:
+  text: 游宦紀聞雜家類三雜說之屬提要臣等謹案游宦紀聞十卷宋張世南撰陳振孫書録解題載其字曰光叔鄱陽人然其名則作士南未詳孰是其紀年稱嘉定甲戌又稱紹定癸巳蓋寧宗理宗間人自稱嘗官閩中多記永福縣事亦不知為永福何官也世南嘗與劉過高翥趙蕃韓淲諸人遊而述程迥之說尤多蓋其兄為董煟壻煟為迥之壻故聞之親串間也其書多記雜事舊聞而無一語涉時政如記秦觀元祐刺字記黃師尹解打字義記張嵩先借紫記諱名諱字記蘇黃用一鴟字記古書刀記何致初搨岣嶁碑始末皆足資考證其駁黃伯思八十一首之說及推闡王湜百六之義尤極精核其他如論犀角龍涎端研古器之類亦足以資博識宋末說部之佳本也乾隆四十三年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:4fe4eee6d3e2bb12d7954aef8966b3c42524d0f1145ea3ed3f7d9f949bac1b90
+metadata:
+  title: 游宦紀聞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:23:57.095900'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0119/KR3j0119_000.txt
+hash: sha256:9f301066e23ca22a6909ed4c0950aadf04c68a4a97eda90f645831058363dded
