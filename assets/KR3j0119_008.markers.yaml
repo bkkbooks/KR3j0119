@@ -563,6 +563,7 @@ markers:
   - {type: line-break, offset: 1708, content: '', id: KR3j0119_WYG_008-6b02}
   - {type: indent, offset: 1708, content: 　, id: KR3j0119_krp_008-bkkind85}
   - {type: punctuation, offset: 1715, content: (, id: KR3j0119_krp_008-bkkpn1}
+  - {type: voice, offset: 1715, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1716, content: /, id: KR3j0119_krp_008-bkkpn2}
   - {type: punctuation, offset: 1716, content: ), id: KR3j0119_krp_008-bkkpn3}
   - {type: indent, offset: 1716, content: 　　, id: KR3j0119_krp_008-bkkind86}
@@ -595,6 +596,7 @@ markers:
   - {type: indent, offset: 1806, content: 　, id: KR3j0119_krp_008-bkkind91}
   - {type: substitution, offset: 1811, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
   - {type: punctuation, offset: 1822, content: (, id: KR3j0119_krp_008-bkkpn4}
+  - {type: voice, offset: 1822, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1823, content: /, id: KR3j0119_krp_008-bkkpn5}
   - {type: punctuation, offset: 1823, content: ), id: KR3j0119_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 1826, content: '
@@ -989,6 +991,7 @@ markers:
   - {type: line-break, offset: 3023, content: '', id: KR3j0119_WYG_008-10b08}
   - {type: indent, offset: 3023, content: 　, id: KR3j0119_krp_008-bkkind149}
   - {type: punctuation, offset: 3028, content: (, id: KR3j0119_krp_008-bkkpn7}
+  - {type: voice, offset: 3028, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3029, content: /, id: KR3j0119_krp_008-bkkpn8}
   - {type: punctuation, offset: 3030, content: ), id: KR3j0119_krp_008-bkkpn9}
   - {type: 'kr:newline', offset: 3044, content: '
@@ -1084,4 +1087,4 @@ markers:
 
       ', id: KR3j0119_krp_008-bkkkrnewl197}
   back: []
-hash: sha256:823a3d22eb9bfc63ad3bc78c5daa370254baa667604bb866c932adf6d191de0b
+hash: sha256:ba1282bfe9442314a5adc10b48d125877dd6e2e9d4794eb19b034eb08518eeca
